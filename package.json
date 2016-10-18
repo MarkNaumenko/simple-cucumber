@@ -1,0 +1,21 @@
+{
+  "name": "cucumber-js-simple",
+  "version": "1.0.0",
+  "description": "The most simple protractor-cucumber-framework test ever",
+  "main": "protractor-conf.js",
+  "dependencies": {
+    "cucumber": "^1.3.1",
+    "protractor-cucumber-framework": "^0.6.0",
+    "webdriver-manager": "^10.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protractor-cucumber-framework",
+    "easy"
+  ],
+  "author": "Mark Naumenko",
+  "license": "ISC"
+}
