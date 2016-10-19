@@ -5,6 +5,6 @@ To start this test, just do:
 - 3) (sudo) npm install -g protractor
 - *in project directory
 - 4) npm install
-- 5) protractor protractor-conf.js
-- 6) ???
-- 7) PROFIT
+- 5) (sudo) webdriver-manager update
+- 6) webdriver-manager start
+- 7) protractor protractor-conf.js
